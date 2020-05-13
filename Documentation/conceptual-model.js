@@ -1,6 +1,16 @@
-const json = 'conceptual-model.js'
+
+const json = 'conceptual-model.json';
+
 
     fetch(json)
-    .then(function (response) {
-        console.log(response)
+    .then(reply => {
+        // return response.json();
+        return reply.json();
+    })
+    .then(data => {
+
+        data.map(sections => {
+            
+            console.log(sections['About Me'].Objective);
+        })
     })

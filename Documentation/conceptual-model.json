@@ -1,10 +1,12 @@
-{
-    "About Me":{
-        "Objective":"Solution-driven web developer excelling in a highly collaborative or solo work environment, finding solutions to challenges and focuses on client satisfaction with an eagerness to learn about new technologies and programming languages. Proven experience with writing APIs and building a database using PHP and MySQL. Also proven experience with JavaScript, and React.js framework using Redux for state management and Axios to make http request to written APIs that communicates with the database. Experienced in building products for desktop and mobile responsiveness, meeting the highest quality standards for web design, user experience, best practices, usability and meeting deadlines. Experienced with hosting domains using Docker and Docker containerization. Translating solutions into code and working across many different APIs, third-party integrations and databases. Working with developers that are passionate about technology and want to integrate new ways of developing software.",
-        "Technologies": ["MySQL", "Python", "JavaScript", "PHP", "Docker", "Unit Testing", "Writing REST APIs", "Git as Version Control", "React Redux and Axios", "Agile Project Management", "HTML5", "Bootstrap", "CSS3"],
-        "Projects": "",
-        "Education": "",
-        "Other Skills": ""
+[
+    {
+        "About Me":{
+            "Objective":"Solution-driven web developer excelling in a highly collaborative or solo work environment, finding solutions to challenges and focuses on client satisfaction with an eagerness to learn about new technologies and programming languages. Proven experience with writing APIs and building a database using PHP and MySQL. Also proven experience with JavaScript, and React.js framework using Redux for state management and Axios to make http request to written APIs that communicates with the database. Experienced in building products for desktop and mobile responsiveness, meeting the highest quality standards for web design, user experience, best practices, usability and meeting deadlines. Experienced with hosting domains using Docker and Docker containerization. Translating solutions into code and working across many different APIs, third-party integrations and databases. Working with developers that are passionate about technology and want to integrate new ways of developing software.",
+            "Technologies": ["MySQL", "Python", "JavaScript", "PHP", "Docker", "Unit Testing", "Writing REST APIs", "Git as Version Control", "React Redux and Axios", "Agile Project Management", "HTML5", "Bootstrap", "CSS3"],
+            "Projects": "",
+            "Education": "",
+            "Other Skills": ""
+        }
+    
     }
-
-}
+]

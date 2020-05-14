@@ -1,4 +1,3 @@
-
 const json = 'conceptual-model.json';
 
 
@@ -11,11 +10,11 @@ const json = 'conceptual-model.json';
 
         data.map((sections) => {
 
-            console.log(sections['About Me'])
-            let result = document.getElementById('sections-about-me')
+            console.log(sections['About'][i]);
+            let result = document.getElementById('sections-about-me');
 
             let li = document.createElement('li');
-            let text = document.createTextNode(sections['About Me'])
+            let text = document.createTextNode(sections['About']);
 
             li.appendChild(text);
             result.appendChild(li).innerHTML;

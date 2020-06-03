@@ -9,8 +9,8 @@ const json = 'conceptual-model.json';
     .then(data => {
 
         data.map((sections) => {
-
-            console.log(sections['About'][i]);
+            
+            console.log(sections['About'][0]);
             let result = document.getElementById('sections-about-me');
 
             let li = document.createElement('li');
